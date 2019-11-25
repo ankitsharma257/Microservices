@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;io.javabrains.discoveryserver&apos; to &apos;io.eureka.discoveryserver&apos;&#x0D;&#x0A;- Original project: &apos;discovery-server&apos;&#x0D;&#x0A;- Original element: &apos;discovery-server/src/main/java/io.javabrains.discoveryserver&apos;&#x0D;&#x0A;- Renamed element: &apos;discovery-server/src/main/java/io.eureka.discoveryserver&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;io.javabrains.discoveryserver&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;io.javabrains.discoveryserver" name="io.eureka.discoveryserver" qualified="false" references="true" stamp="1574397411956" textual="false" version="1.0"/>
+</session>
